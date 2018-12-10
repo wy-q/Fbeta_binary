@@ -1,2 +1,2 @@
 # Fbeta_binary
-Fbeta for binary classification in fastai library
+Create Fbeta_binary metric for fastai library. It calculates the F metric for single-label multi-class classification.
